@@ -1,4 +1,4 @@
-# drawer_example_app
+# Example Flutter Drawer App
 
 Example Flutter app showing implementing a drawer.
 
